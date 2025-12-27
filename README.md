@@ -55,3 +55,6 @@ fastfetch
 ## 📸 Example Output
 After installation, simply run the command and enjoy the system summary in your terminal.
 
+
+<img width="1536" height="1024" alt="BCO 95bec359-b9c8-4b83-af86-43cff545da20" src="https://github.com/user-attachments/assets/ae35531f-8c3f-40d6-9a64-1fcc64fed189" />
+
