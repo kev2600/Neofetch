@@ -1,0 +1,2 @@
+# Neofetch
+Install Neofetch manually
