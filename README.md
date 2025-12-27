@@ -5,6 +5,8 @@ git clone https://github.com/dylanaraps/neofetch
 cd neofetch
 sudo make install
 
-#fastfetch
+#fastfetch (Fedora based - DNF)
 sudo dnf install fastfetch
 
+#Ubuntu / Debian
+sudo apt install fastfetch 
